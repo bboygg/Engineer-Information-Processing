@@ -1,6 +1,5 @@
-# Engineer-Information-Processing
+# 👨‍💻📝Engineer-Information-Processing
 정보처리기사 공부노트
-
 
 
 ## :card_index:Index
