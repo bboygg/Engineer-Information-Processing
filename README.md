@@ -1,8 +1,8 @@
-# 👨‍💻📝Engineer-Information-Processing
+# 👨‍💻📝 Engineer-Information-Processing
 정보처리기사 공부노트
 
 
-## :card_index:Index
+## :card_index: Index
 
 - [소프트웨어 설계](https://github.com/bboygg/Engineer-Information-Processing/blob/main/sw-design.md)
 - [소프트웨어 개발](https://github.com/bboygg/Engineer-Information-Processing/blob/main/sw-development.md)
@@ -13,7 +13,7 @@
 
 
 
-## :calendar:Test Plan at a glance
+## :calendar: Test Plan at a glance
 
 - Date for written test: Apr 24, 2022
 - Result announcement: May 18, 2022 
@@ -21,9 +21,9 @@
 
 
 
-### :100:Self Test Result
+### :100: Self Test Result
 
-CBT Test Link: https://q.fran.kr/%EC%8B%9C%ED%97%98/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC
+[Link to Online Test](https://q.fran.kr/%EC%8B%9C%ED%97%98/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC)
 
 | Names      | Date | Result | Notes |
 | ---------- | ---- | ------ | ----- |
