@@ -23,7 +23,7 @@
 
 ### :100: Self Test Result
 
-[Link to Online Test](https://q.fran.kr/%EC%8B%9C%ED%97%98/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC)
+[Link to Online Test](https://www.comcbt.com)
 
 | Names      | Date | Result | Notes |
 | ---------- | ---- | ------ | ----- |
@@ -40,6 +40,6 @@
 
 
 ### 🔗 References
-- [Online Test](https://q.fran.kr/%EC%8B%9C%ED%97%98/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC)
+- [Online Test](https://www.comcbt.com)
 - [Link to Qnet](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)
 - 
