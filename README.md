@@ -5,7 +5,7 @@
 
 ## :card_index:Index
 
-- [소프트웨어 설계](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)
+- [소프트웨어 설계](https://github.com/bboygg/Engineer-Information-Processing/blob/main/sw-design.md)
 - [소프트웨어 개발](https://github.com/bboygg/Engineer-Information-Processing/blob/main/sw-development.md)
 - [데이터베이스 구축](https://github.com/bboygg/Engineer-Information-Processing/blob/main/db-construction.md)
 - [프로그래밍언어 활용](https://github.com/bboygg/Engineer-Information-Processing/blob/main/programming-language.md)
