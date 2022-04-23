@@ -10,6 +10,7 @@
 - [프로그래밍언어 활용](https://github.com/bboygg/Engineer-Information-Processing/blob/main/programming-language.md)
 - [정보시스템 구축](https://github.com/bboygg/Engineer-Information-Processing/blob/main/information-system.md)
 
+- [오답노트](https://github.com/bboygg/Engineer-Information-Processing/blob/main/wrongAnswerNote.md)
 
 
 
@@ -44,4 +45,3 @@
 ### 🔗 References
 - [Online Test](https://www.comcbt.com)
 - [Link to Qnet](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)
-- 

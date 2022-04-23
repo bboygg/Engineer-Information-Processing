@@ -1,5 +1,4 @@
 # WrongAnswer Note
----
 
 ![](/image-wrongAnswer/Screenshot%20from%202022-04-23%2013-25-49.png)
 
